@@ -1,0 +1,1 @@
+Sebuah supermarket ingin memprediksi kota mana yang menjual sebuah produk dari data supermarket sales. Dengan demikian dapat membantu supermarket dalam menentukan jumlah produk yang akan di restock di kota tersebut dan menentukan product mana yang dapat di berikan discount di setiap kotanya.
